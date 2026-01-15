@@ -3,7 +3,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 // ============================================
 // CONFIGURATION - UPDATE THIS WITH YOUR GOOGLE APPS SCRIPT URL
 // ============================================
-const GOOGLE_SCRIPT_URL = 'YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzlTAVD8N6cyy61X9M7XpeO0oaXSQx2AR0wITeX_yqRxsT614QfMTe29kTDQdrNOzX5/exec';
 // ============================================
 
 // QR Code generation
